@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1591126240 source:c:\users\vinic\desktop\mc202 rafael\laboratórios 2020\lab6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1591123630 c:\users\vinic\desktop\mc202 rafael\laboratórios 2020\lab6\mergesort.h
+
+1591123708 source:c:\users\vinic\desktop\mc202 rafael\laboratórios 2020\lab6\mergesort.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"mergesort.h"
+
+1591125782 c:\users\vinic\desktop\mc202 rafael\laboratórios 2020\lab6\quicksort.h
+

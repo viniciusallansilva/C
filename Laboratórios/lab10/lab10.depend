@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1593471678 source:c:\users\vinic\desktop\mc202 rafael\laboratórios 2020\lab10\tabelahash.c
+	<stdio.h>
+	<stdlib.h>
+	"tabelahash.h"
+
+1593471749 c:\users\vinic\desktop\mc202 rafael\laboratórios 2020\lab10\tabelahash.h
+
+1593471997 source:c:\users\vinic\desktop\mc202 rafael\laboratórios 2020\lab10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tabelahash.h"
+

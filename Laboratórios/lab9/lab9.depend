@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1592595662 source:c:\users\vinic\desktop\mc202 rafael\laboratórios 2020\lab9\arvore.c
+	"arvore.h"
+	<stdio.h>
+	<stdlib.h>
+
+1592595735 c:\users\vinic\desktop\mc202 rafael\laboratórios 2020\lab9\arvore.h
+
+1592604205 source:c:\users\vinic\desktop\mc202 rafael\laboratórios 2020\lab9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+

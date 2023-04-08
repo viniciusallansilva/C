@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1591748103 source:c:\users\vinic\desktop\mc202 rafael\laboratórios 2020\lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listacircular.h"
+
+1589241293 c:\users\vinic\desktop\mc202 rafael\laboratórios 2020\lab3\lista.h
+
+1589314261 c:\users\vinic\desktop\mc202 rafael\laboratórios 2020\lab3\lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1591811690 c:\users\vinic\desktop\mc202 rafael\laboratórios 2020\lab3\listacircular.h
+
+1591748307 source:c:\users\vinic\desktop\mc202 rafael\laboratórios 2020\lab3\listacircular.c
+	"listacircular.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

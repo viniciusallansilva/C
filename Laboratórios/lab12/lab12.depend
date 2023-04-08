@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1593818042 source:c:\users\vinic\desktop\mc202\laboratórios 2020\lab12\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+
+1593817992 c:\users\vinic\desktop\mc202\laboratórios 2020\lab12\grafo.h
+
+1593817947 source:c:\users\vinic\desktop\mc202\laboratórios 2020\lab12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+

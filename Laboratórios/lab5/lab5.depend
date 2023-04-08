@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590939940 source:c:\users\vinic\desktop\mc202 rafael\laboratórios 2020\lab5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
